@@ -4,11 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node D:/CursoFrontAngular/CursoJsAsinc/Asincronismo/src/callback/challenge.js"
   },
   "keywords": [
     "JavaScript"
   ],
   "author": "Hector Hernandez hectorzamora38@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
